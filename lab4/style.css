@@ -1,0 +1,12 @@
+
+body{
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+
+#likeBtn,#dislikeBtn{
+  padding: 0% 5%;
+  font-size: 40;
+}
